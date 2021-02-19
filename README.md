@@ -68,6 +68,4 @@ Data used in the experiment is he level 1 data from June 1st, 2019 to Jun 1st 20
 [3] Almgren, Robert and Neil Chriss. “Optimal execution of portfolio transactions” (1999). Print.
 
 
-[4] Cartea, ´Alvaro, Jos´e Penalva, and Sebastian Jaimungal. Algorithmic and High-Frequency Trading. 1st ed.
-
-Cambridge University Press, 2015. Print.
+[4] Cartea, ´Alvaro, Jos´e Penalva, and Sebastian Jaimungal. Algorithmic and High-Frequency Trading. 1st ed. Cambridge University Press, 2015. Print.
