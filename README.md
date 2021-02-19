@@ -8,7 +8,7 @@ The Q is set to the level ensuring that the trading algorithm has its role to pl
 If the Q were too small, the trading task would become too easy that it is impossible to achieve a better result. 
 If the Q were too large, the trade task would consume a lot of liquidity on the market making the experiment unreasonable.
 Generally, a participation rate of 5% to 6% is believed to be a reasonable trading volume 
-that causes a small impact as well as has the potential to optimize the trading behavior \[See the book Algorithmic Trading and DMA: An introduction to direct access trading strategies\]. 
+that causes a small impact as well as has the potential to optimize the trading behavior <cite>[Barry][1]</cite>. 
 
 
 ## Assumptions
@@ -30,3 +30,13 @@ Data used in the experiment is he level 1 data from June 1st, 2019 to Jun 1st 20
 ## Backtest result 
 
 ![TB](./experiment_result.png)
+
+
+
+
+
+
+
+## Reference
+
+[1] Barry Johnson: Algorithmic Trading and DMA: An introduction to direct access trading strategies
