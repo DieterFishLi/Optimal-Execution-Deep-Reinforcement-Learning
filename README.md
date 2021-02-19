@@ -10,6 +10,10 @@ If the Q were too large, the trade task would consume a lot of liquidity on the 
 Generally, a participation rate of 5% to 6% is believed to be a reasonable trading volume 
 that causes a small impact as well as has the potential to optimize the trading behavior <cite>[Barry][1]</cite>. 
 
+## Why setting a short trade horzion?
+
+See this [2]
+
 
 ## Assumptions
 In this project, it is assumed that the trading agent only trades via MO orders. 
@@ -20,7 +24,7 @@ The second assumption is that the agent is able to capture the limit orders it o
 
 ### Action 
 
-The author sets the lower bound and upper bound of quantities as 0 and Ceiling\[20/Q\] and the agent can take values from natural numbers that belong to this interval
+The author sets the lower bound and upper bound of quantities as 0 and Ceiling\[20/Q\] and the agent can take integer values that belong to this interval.
 
 ### State
 
@@ -57,3 +61,5 @@ Data used in the experiment is he level 1 data from June 1st, 2019 to Jun 1st 20
 ## Reference
 
 [1] Barry Johnson: Algorithmic Trading and DMA: An introduction to direct access trading strategies
+
+[2] Bacoyannis, Vangelis, et al. “Idiosyncrasies and challenges of data driven learning in electronic trading.” arXiv:1811.09549 [q-ﬁn] (Nov. 2018). arXiv: 1811.09549.
