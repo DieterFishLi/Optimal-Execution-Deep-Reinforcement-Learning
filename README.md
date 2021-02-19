@@ -12,7 +12,8 @@ that causes a small impact as well as has the potential to optimize the trading 
 
 ## Why setting a short trade horzion?
 
-See this [2]
+See this [2]. Basic idea, sub advantage to overall advantage.
+Splitting the a large order and scheduling these child orders is a another famous topic, called optimal execution. See [3], [4], ... , and many other papers.
 
 
 ## Assumptions
@@ -63,3 +64,10 @@ Data used in the experiment is he level 1 data from June 1st, 2019 to Jun 1st 20
 [1] Barry Johnson: Algorithmic Trading and DMA: An introduction to direct access trading strategies
 
 [2] Bacoyannis, Vangelis, et al. “Idiosyncrasies and challenges of data driven learning in electronic trading.” arXiv:1811.09549 [q-ﬁn] (Nov. 2018). arXiv: 1811.09549.
+
+[3] Almgren, Robert and Neil Chriss. “Optimal execution of portfolio transactions” (1999). Print.
+
+
+[4] Cartea, ´Alvaro, Jos´e Penalva, and Sebastian Jaimungal. Algorithmic and High-Frequency Trading. 1st ed.
+
+Cambridge University Press, 2015. Print.
