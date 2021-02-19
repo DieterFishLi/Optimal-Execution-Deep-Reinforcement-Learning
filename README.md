@@ -23,7 +23,7 @@ Data used in the experiment is he level 1 data from June 1st, 2019 to Jun 1st 20
 ## Trading Behaviour 
 
 ![Pic](./trd_limit_1.png)
-![PIc](./trd_limit_2.png)
+![Pic](./trd_limit_2.png)
 
 
 
