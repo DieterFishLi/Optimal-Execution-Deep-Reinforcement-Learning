@@ -1,7 +1,7 @@
 # Order-Placement-With-Deep-Reinforcement-Learning
 
 ## Introduction 
-This project focuses on trading execution within a short time horizon. 
+The DQN algorithm is utilized to train a trading agent which focuses on trading execution within a short time horizon. 
 The trading instruction is to sell Q number of shares of XYZ stock within 1 minute from 9:31 to 9:32, 
 which is the beginning of the continuous trading session of a trading day in China. The chosen benchmark is the TWAP algorithm. 
 The Q is set to the level ensuring that the trading algorithm has its role to play. 
